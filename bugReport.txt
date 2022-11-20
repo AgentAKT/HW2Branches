@@ -1,0 +1,6 @@
+ID 1
+Title Заголовок
+Description Описание
+Steps Шаги воспроизведения
+Actual Result Актуальный результат
+Expected Result Ожидаемый результат
